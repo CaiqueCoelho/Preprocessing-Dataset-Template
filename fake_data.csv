@@ -1,0 +1,6 @@
+animal, age, worth, friendly
+cat, 4.0, 72000.0, No
+Dog, 17.0, 48000.0, Yes
+Moose, 6.0, 54000.0, No
+Dog, 8.0, 61000.0, No
+Moose, 4.0,, Yes
