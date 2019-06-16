@@ -11,3 +11,7 @@ Para entender cada detalhe deste guia acesse o meu artigo no medium onde explico
 The idea of this project is to be a point of reference for preprocessing techniques that can be applied to any type of data that will later be used in classification techniques with machine learning.
 
 To understand each detail of this guide, access my article in the medium where I explain step by step each application:
+
+![alt text](https://github.com/CaiqueCoelho/Preprocessing-Dataset-Template/blob/master/reescaling_resume_details.png)
+
+![alt text](https://github.com/CaiqueCoelho/Preprocessing-Dataset-Template/blob/master/reescaling_resume.png)
